@@ -59,3 +59,7 @@ Output
 Light can be controlled from the mobile app.
 Real-time ON/OFF operation through Wi-Fi.
 Remote access to home appliances.
+
+## Project Video
+
+[Click here to watch video](https://drive.google.com/file/d/1mZJGM8dN3GN-s4L8rElMxkQbcQhxa6I5/view?usp=drivesdk)
